@@ -1,10 +1,8 @@
 
-######This Project is a folk of mkrcah/scala-kafka-twitter######
-
-### Demonstration project to monitor Twitter stream and identify on unexpected increases in tweet volume 
+### Monitor Twitter stream and identify on unexpected increases in tweet volume
 
 This is WIP.
-[Getting Started](https://github.com/xydata/bigdata-demo#getting-started)
+[Getting Started](https://github.com/iyunbo/sentiment-detect#getting-started)
 
 Current infrastructure:
 - TweetCollector serializes Tweets (without code generation) to Avro and sent to Kafka
